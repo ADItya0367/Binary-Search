@@ -1,5 +1,9 @@
 # Binary-Search
 
+
+
+Binary search is a searching technique in which we mainly define a mid position through the formula , if we get the required element at the mid then simply we're returning that element else if mid is smaller ,then target element move low too mid+1 else emove high=mid-1........We can do the binary search in two method Iterative & Recursive
+
 // ITERATIVE
 1st Method that we are using here is iterative method
 define variables as low , high and mid 
