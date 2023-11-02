@@ -2,7 +2,7 @@ Binary search in c++///////////ITERATIVE
 
 #include<iostream>
 using namespace std;
-//creating a function for binary search recursively
+//creating a function for binary search Iteratively
 
 void BinarySearch(int array[],int x, int low,int high)
 { 
