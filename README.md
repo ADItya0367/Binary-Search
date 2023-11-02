@@ -24,3 +24,7 @@ Inside main function
 In the recursive Method we will define the function and check for every call 
 Meaning we will just do the same thing as iterative but instead of checking the value of mid everytime call the function 
 ** Check the code to understand well
+
+BEST-O(1)
+AVERAGE-O(logn)
+WORST-o(logn)
